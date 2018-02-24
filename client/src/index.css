@@ -1,13 +1,32 @@
+body {
+  background-image: url("https://www.publicdomainpictures.net/pictures/140000/velka/vintage-newspaper-print.jpg");
+}
+
 .col-sm-10 {
   margin: 0 auto;
 }
 
+.panel {
+  background-color: bisque;
+  padding: 2% 5%;
+  margin-bottom: 2%;
+}
+
 .jumbotron {
   height: 0;
+  background-color: bisque;
+}
+
+.navbar {
+  background: navy;
 }
 
 .navbar-nav {
   flex-direction: row;
+}
+
+.savedBtn {
+  margin-left: 5%;
 }
 
 .btn-warning {
