@@ -12,4 +12,5 @@
 
 ### Here is a demo of the app:
 
+![NYTimes Gif](/nytreact.gif)
 
